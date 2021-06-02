@@ -1,10 +1,12 @@
-[
-  {
-    "soal": "Siapa Nama Anak Naruto?",
-    "kj": "boruto",
-    },
-    {
-    "soal": "siapa ayah boruto?",
-    "kj": "boruto",
-    }
-]
+{
+     "result": [
+        {
+             "soal": "Siapa Nama Bapak Naruto?",
+             "jawaban": "Minato"
+        },
+        {
+             "soal": "Siapa Nama Anak Naruto?",
+             "jawaban": "Boruto"
+        }
+        ]
+ }
